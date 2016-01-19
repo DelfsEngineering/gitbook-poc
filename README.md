@@ -1,2 +1,2 @@
 # gitbook-poc
-Repo for gitbook poc. You are inside the README.md file: landing page for the book.
+Repo for gitbook poc. You are inside the README.md file: landing page for the book. This is it.
