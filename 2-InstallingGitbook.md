@@ -1,4 +1,4 @@
-##Getting Started
+##Installing Gitbook
 
 Go to your terminal (I highly recommend [Cmder Emulater for Windows][1]), and 
 
