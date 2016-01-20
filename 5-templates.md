@@ -53,3 +53,23 @@ My book.json looks like
 ```
 
 To access the *variables* in **book.json** we use *book.nameOfTheVariablePropertyInVariablesKey* (in this case **book.teamPeople**, and **book.pocVariable**)
+
+###Inheriting 
+
+You can also inherit template **blocks** (text templates) from one file to another. For example if in a hypothetic file named *mypage.md* I've the following markup written in it 
+
+{% raw %}
+    {% block pageContent %}
+    This is the default content
+    {% endblock %}
+{% endraw %}
+
+The **block** named *pageContent* can be imported in another file say named *mypage2.md* by writing 
+
+{% raw %}
+    {% extends "./mypage.md" %}
+
+    {% block pageContent %}
+    # This is my page content
+    {% endblock %}
+{% endraw %}
