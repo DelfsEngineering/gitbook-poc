@@ -1,0 +1,22 @@
+{
+    "styles": {
+        "website": "styles/website.css"
+    },
+
+    "variables": {
+        "pocVariable": true,
+        "teamPeople":[
+            { "name": "Rishabh" },
+            { "name": "Arihant" },
+            { "name": "Suvarna" },
+            { "name": "Ashok" },
+            { "name": "Pinky" },
+            { "name": "Mayur" },
+            { "name": "Anusheel"},
+            { "name": "Vidhya" },
+            { "name": "Abhraham"},
+            { "name": "Shafique"},
+            { "name": "Surbhi"}
+        ]
+    }
+}
