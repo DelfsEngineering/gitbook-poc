@@ -11,7 +11,7 @@ Making Documentation with gitbooks is fast because
 5. Inbuilt javascript code and syntax highlighting for javascript
 6. It has lots of plugins like disqus for commenting, to enhance its features: like codepen integration, ace editor plugin
 7. People can send pull requests for any discrepancy they have fixed/found in the documentation.
-
+8. There's a search plugin for Gitbook, which can be used to look up for keyword search in the documentation.
 [1]: http://help.gitbook.com/format/languages.html
 [2]: http://help.gitbook.com/styling/book.html
 [3]: http://help.gitbook.com/format/templating.html
