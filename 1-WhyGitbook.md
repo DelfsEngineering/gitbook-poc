@@ -9,7 +9,8 @@ Making Documentation with gitbooks is fast because
 3. There's a concept of 'Variables' which are accessible through [templates][3]. 
 4. There are also special tags like **_if_**, **_elif_**, **_for_** (short for else if) and **_else_** that can be used in the templates for {% if book.pocVariable %} selectively display the content. {% endif %}. 
 5. Inbuilt javascript code and syntax highlighting for javascript
-6. It has lots of plugins like disqus for commenting, to enhance its features
+6. It has lots of plugins like disqus for commenting, to enhance its features: like codepen integration, ace editor plugin
+7. People can send pull requests for any discrepancy they have fixed/found in the documentation.
 
 [1]: http://help.gitbook.com/format/languages.html
 [2]: http://help.gitbook.com/styling/book.html
