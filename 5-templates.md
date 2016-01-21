@@ -45,7 +45,7 @@ My book.json looks like
             { "name": "Anusheel"},
             { "name": "Vidhya" },
             { "name": "Abhraham"},
-            { "name": "Shafique"},
+            { "name": "Shafeeq"},
             { "name": "Surbhi"}
         ]
     }
